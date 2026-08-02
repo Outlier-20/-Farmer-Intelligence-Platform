@@ -15,16 +15,6 @@
 
 ---
 
-## 📐 System Architecture :
-
-
-
-| :---: |
-| <img src="design.png" alt="System Architecture" width="100%"> |
-
-
----
-
 ## 🔥 Key Features
 
 ### 🗺️ Interactive US Map & Timeline
@@ -78,3 +68,17 @@
    ```bash
    git clone [https://github.com/Outlier-20/-Farmer-Intelligence-Platform.git](https://github.com/Outlier-20/-Farmer-Intelligence-Platform.git)
    cd -Farmer-Intelligence-Platform
+
+🛡️ Data Privacy & Ethical OSINT Guidelines
+All data visualized in this platform is sourced strictly from public transparency repositories (USDA, Department of Labor, and open-source government records).
+
+No private personal information (PII) beyond official public records is stored or exposed.
+
+📜 License
+Distributed under the MIT License. See LICENSE for more information.
+---
+<ElicitationsGroup message="What would you like to do next?">
+<Elicitation label="Format side-by-side comparison tables in Markdown" query="Format side-by-side comparison tables in Markdown" query_intent="CLICKABLE_SUGGESTION" />
+<Elicitation label="Add custom styling to Markdown tables in GitHub" query="Add custom styling to Markdown tables in GitHub" query_intent="CLICKABLE_SUGGESTION" />
+<Elicitation label="Embed dynamic GitHub badges in README.md" query="Embed dynamic GitHub badges in README.md" query_intent="CLICKABLE_SUGGESTION" />
+</ElicitationsGroup>
