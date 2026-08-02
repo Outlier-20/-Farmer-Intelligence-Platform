@@ -15,13 +15,8 @@
 
 ---
 
-## 📐 System Architecture & User Flow
-
-Below is the conceptual wireframe and workflow architecture of the platform dashboard:
-
-![System Architecture](./design.png)
-
-> **Note:** Ensure the image file `design.png` is placed in the root directory of your repository.
+## 📐 System Architecture :
+![Uploading Screenshot 2026-04-13 172233.png…]()
 
 ---
 
