@@ -75,7 +75,7 @@ All data visualized in this platform is sourced strictly from public transparenc
 No private personal information (PII) beyond official public records is stored or exposed.
 
 📜 License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. 
 ---
 <ElicitationsGroup message="What would you like to do next?">
 <Elicitation label="Format side-by-side comparison tables in Markdown" query="Format side-by-side comparison tables in Markdown" query_intent="CLICKABLE_SUGGESTION" />
