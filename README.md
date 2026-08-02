@@ -21,7 +21,7 @@ Below is the conceptual wireframe and workflow architecture of the platform dash
 
 ![System Architecture](./design.png)
 
-> **Note:** Ensure the image file `Screenshot 2026-04-13 172233.png` is placed in the root directory of your repository.
+> **Note:** Ensure the image file `design.png` is placed in the root directory of your repository.
 
 ---
 
