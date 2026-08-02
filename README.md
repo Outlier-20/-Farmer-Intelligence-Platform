@@ -16,7 +16,12 @@
 ---
 
 ## 📐 System Architecture :
-![Uploading Screenshot 2026-04-13 172233.png…]()
+
+
+
+| :---: |
+| <img src="design.png" alt="System Architecture" width="100%"> |
+
 
 ---
 
